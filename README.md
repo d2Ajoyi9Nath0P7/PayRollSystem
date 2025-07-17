@@ -31,7 +31,7 @@ This is a Java-based Payroll Management System designed to manage employee recor
 ## Author
 A'joy  
 Engineering Student | Java Developer  
-Contact: your.email@example.com | GitHub: https://github.com/d2Ajoyi9Nath0P7
+Contact: ajoynathiiuc@gmail.com | GitHub: https://github.com/d2Ajoyi9Nath0P7
 
 ---
 
