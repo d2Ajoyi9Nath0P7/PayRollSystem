@@ -29,8 +29,7 @@ This is a Java-based Payroll Management System designed to manage employee recor
 3. The system will demonstrate adding employees, displaying them, removing an employee, and displaying the updated list.
 
 ## Author
-A'joy  
-Engineering Student | Java Developer  
+Ajoy Nath
 Contact: ajoynathiiuc@gmail.com | GitHub: https://github.com/d2Ajoyi9Nath0P7
 
 ---
